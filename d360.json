@@ -133,6 +133,11 @@
           ]
         }
       ]
+    },
+    {
+      "paths": [
+        { "langs": ["en"], "path": "api-reference/swagger-petstore/README.md" }
+      ]
     }
   ]
 }
